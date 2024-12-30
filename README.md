@@ -1,6 +1,9 @@
 # Body Position Detector
 
-Monitors your posture by detecting shoulder alignment and body straightness using your webcam. Sends desktop notifications when poor posture is detected.
+## DO NOT SIT LIKE HIM!
+![img.png](img.png)
+
+The program monitors your posture by detecting shoulder alignment and body straightness using your webcam. Sends desktop notifications when poor posture is detected.
 
 ## Features
 
